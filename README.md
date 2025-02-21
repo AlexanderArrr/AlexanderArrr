@@ -1,4 +1,6 @@
 # Hi, I'm Alexander Aretz! 👋 Welcome to my GitHub profile! 🌟
+- 🖥️ Certified IT Specialist Application Development / Fachinformatiker Anwendungsentwicklung
+- 📚 Currently learning at [Boot.dev](https://boot.dev)
 ## Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexander-aretz-7372452a7/)
 ## Skills
