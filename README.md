@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**AlexanderArrr/AlexanderArrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Alexander Aretz! 👋 Welcome to my GitHub profile! 🌟
+## Connect with me
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexander-aretz-7372452a7/)
+## Skills
+#### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,go,javascript,c,ts)](https://skillicons.dev)
+#### Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,tailwind,qt,&perline=3)](https://skillicons.dev)
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+#### Others
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,ubuntu)](https://skillicons.dev)
